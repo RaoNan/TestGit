@@ -1,4 +1,4 @@
-print("Greetings")
+print("Greetings test")
   
 import sys
 import os
